@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border: 1px solid red;
+    width: 50%;
+    margin: 0 auto;
+}
+
+table td {
+    border-bottom: 1px solid green;
+}
+
+thead {
+    background-color: darkgoldenrod;
+}
+
+h1 {
+    text-align: center;
+}
+
+.htmlTag {
+    background-color: azure;
+}
+
+.htmlTagCell {
+    background-color: red;
+}
+
